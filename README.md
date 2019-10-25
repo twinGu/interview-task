@@ -5,7 +5,6 @@ Your task is to implement simple TODO application. User should be able to perfor
 * Create new task in TODO list
 * Mark task as completed
 * Delete task
-* Update text of the existing task
 
 ## Important notes
 
