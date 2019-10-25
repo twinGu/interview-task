@@ -17,7 +17,7 @@ Your task is to implement simple TODO application. User should be able to perfor
 
 ## Example
 
-![Example of the application]()
+![Example of the application](https://github.com/amirduran/interview-task/blob/master/app-example.png?raw=true)
 
 ## Project setup
 
