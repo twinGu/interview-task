@@ -17,9 +17,11 @@ Your task is to implement simple TODO application. User should be able to perfor
 
 ## Example
 
+Here is an example how your application could look like.
+
 ![Example of the application](https://github.com/amirduran/interview-task/blob/master/app-example.png?raw=true)
 
-## Project setup
+# Project setup
 
 Open application folder and perform the following command in command line to install project dependencies and start the project.
 
