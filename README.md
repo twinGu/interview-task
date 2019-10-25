@@ -22,7 +22,9 @@ Here is an example how your application could look like.
 
 # Project setup
 
-Open application folder and perform the following command in command line to install project dependencies and start the project.
+We have prepared a simple Vue application so you can start working on your task. You can perform the following commands in command line to install the project and start working.
+
+> ***IMPORTANT***: If you are not comfortable with Vue framework, you can choose any other framework you want. 
 
 ### 1.) Clone this repository
 
