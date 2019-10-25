@@ -24,12 +24,14 @@ Here is an example how your application could look like.
 
 Open application folder and perform the following command in command line to install project dependencies and start the project.
 
-### 1.) Install project dependencies
+### 1.) Clone this repository
+
+### 2.) Install project dependencies
 ```
 npm install
 ```
 
-### 2.) Compiles and hot-reloads for development
+### 3.) Compiles and hot-reloads for development
 ```
 npm run serve
 ```
