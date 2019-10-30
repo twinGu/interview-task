@@ -21,7 +21,7 @@ Here is an example how your application could look like.
 
 ![Example of the application](https://github.com/amirduran/interview-task/blob/master/app-example.png?raw=true)
 
-You don't have to implement exactöy this design in your application but follow the basic idea.
+You don't have to implement exactly this design in your application but follow the provided wireframe.
 
 # Project setup
 
