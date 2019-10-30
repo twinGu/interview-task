@@ -10,7 +10,7 @@ Your task is to implement simple TODO application. User should be able to perfor
 
 * The scope of the task is to implement simple TODO application
 * You are not required to implement any database or backend service, but you can implement them if you feel more comfortable and if you want to demonstrate your skills
-* Imagine that this is official project and you are developing for one of our clients ** IMPORTANT** 
+* Imagine that this is official project and you are developing for one of our clients **(This means we expect your code to be clean, commented and professional)**
 * Layout/design of your application is not important but make sure your design elements are not completly out of the place
 
 
