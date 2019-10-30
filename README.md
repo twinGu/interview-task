@@ -13,7 +13,7 @@ Your task is to implement simple TODO application. User should be able to perfor
 * Imagine that this is official project and you are developing for one of our clients **(This means we expect your code to be clean, commented and professional)**
 * Layout/design of your application is not important but make sure your design elements are not completly out of the place
 * If you are not sure about some feature or if you have any question please contact us
-* You are allowed to use any library/package (vuerouter, vuex etc.) or any frontend component library (bootstrap, vuetify etc.). If you decided not to use Vue framework then again you are allowed additional packages.
+* You are allowed to use any additional library/package (vuerouter, vuex etc.) or any frontend component library (bootstrap, vuetify etc.). If you decided not to use the Vue framework (and provided quick start project) then again you are allowed to use any additional packages.
 
 
 ## Example
