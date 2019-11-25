@@ -11,9 +11,10 @@ Your task is to implement simple TODO application. User should be able to perfor
 * The scope of the task is to implement simple TODO application
 * You are not required to implement any database or backend service, but you can implement them if you feel more comfortable and if you want to demonstrate your skills
 * Imagine that this is official project and you are developing for one of our clients **(This means we expect your code to be clean, commented and professional)**
-* Layout/design of your application is not important but make sure your design elements are not completly out of the place
+* Layout/design of your application should be exactly as on the screen
+* You can use any font on Google Fonts similar to the font we used on the picture
 * If you are not sure about some feature or if you have any question please contact us
-* You are allowed to use any additional library/package (vuerouter, vuex etc.) or any frontend component library (bootstrap, vuetify etc.). If you decided not to use the Vue framework (and provided quick start project) then again you are allowed to use any additional packages.
+* You are allowed to use any additional library/package (vuerouter, vuex etc.) or any frontend component library (bootstrap, vuetify etc.). If you decided not to use the Vue framework (and provided quick start project) then again you are allowed to use any other frontend framework including Angular 2 or React.
 
 
 ## Example
@@ -22,7 +23,6 @@ Here is an example how your application could look like.
 
 ![Example of the application](https://github.com/amirduran/interview-task/blob/master/app-example.png?raw=true)
 
-You don't have to implement exactly this design in your application but follow the provided wireframe.
 
 # Project setup
 
