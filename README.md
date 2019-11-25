@@ -6,7 +6,7 @@ Your task is to implement simple TODO application. User should be able to perfor
 * Mark any task as completed/uncompleted
 * Delete any task from the task list
 
-##Git
+## Git
 * You are obligated to work with Git. Please fork this repository when you start your project.
 
 ## Important notes
