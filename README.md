@@ -12,8 +12,8 @@ Your task is to implement simple TODO application. User should be able to perfor
 ## Important notes
 
 * The scope of the task is to implement simple TODO application
-* You are not required to implement any database or backend service, but you can implement them if you feel more comfortable and if you want to demonstrate your skills
-* Imagine that this is official project and you are developing for one of our clients **(This means we expect your code to be clean, commented and professional)**
+* You are not required to implement any database or backend service, **but you can implement them if you feel more comfortable and if you want to demonstrate your skills**
+* Imagine that this is official project and you are developing for one of our clients **(this means we expect your code to be clean, commented and professional)**
 * Layout/design of your application should be exactly as on the screen
 * You can use any font on Google Fonts similar to the font we used on the picture
 * If you are not sure about some feature or if you have any question please contact us
